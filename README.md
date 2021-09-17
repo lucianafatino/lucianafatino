@@ -23,5 +23,5 @@
   <a href="https://api.whatsapp.com/send?phone=5515996570866&text=Ol%C3%A1!%20Inicie%20seu%20chat%20com%20a%20Luciana%20%3A)" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
   
-![Snake animation](https://github.com/lucianavenancio/lucianavenancio/blob/output/github-contribution-grid-snake.svg)
+
   
