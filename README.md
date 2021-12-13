@@ -19,7 +19,7 @@
 ### Entre em contato comigo!
 <div>
   <a href="mailto:lucianavenancio54@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/luciana-ven%C3%A2nco-76119318b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/luciana-venancio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send?phone=5515996570866&text=Ol%C3%A1!%20Inicie%20seu%20chat%20com%20a%20Luciana%20%3A)" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
   
