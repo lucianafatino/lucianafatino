@@ -1,7 +1,7 @@
 ### Olá, eu sou a Luh! 😊
 
 <div>
-  <a href="https://www.linkedin.com/in/luciana-ven%C3%A2nco-76119318b/">
+  <a href="https://www.linkedin.com/in/lucianafatino/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianavenancio&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianavenancio&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
