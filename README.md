@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://www.linkedin.com/in/lucianafatino/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianavenancio&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianavenancio&layout=compact&langs_count=16&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianafatino&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianafatino&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
 <div>
   <img align"center" alt="Luh-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
